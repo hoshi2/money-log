@@ -1,6 +1,6 @@
 {
-  "name": "STELLA FINANCE",
-  "short_name": "STELLA",
+  "name": "マネーログ",
+  "short_name": "マネーログ",
   "description": "資産・借金・キャッシュフロー管理",
   "start_url": "./",
   "scope": "./",

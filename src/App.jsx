@@ -85,7 +85,7 @@ export default function App() {
         <div className="header-inner">
           <div className="logo">
             <span className="logo-star">✦</span>
-            <span className="logo-text">STELLA FINANCE</span>
+            <span className="logo-text">マネーログ</span>
           </div>
           <div className="header-right">
             {saved ? <span className="save-badge">保存済 ✓</span> : cloudOn && <span className="save-badge">☁ クラウド</span>}
